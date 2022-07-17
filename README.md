@@ -1,2 +1,5 @@
-# PRO-C207-Reference-code
-reference code for 207
+Ludo 207
+Python - Server Socket Programming
+
+Open cmd - run server file
+run client - twice
